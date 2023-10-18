@@ -17,18 +17,19 @@ const About = () => {
                     <div className="about-text">
                         <h2 className="about-title fs-26 ls-1">About BooBook</h2>
                         <p className="fs-17">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
-                            dignissimos consequuntur vero commodi provident maiores, iusto atque
-                            corrupti voluptate vel sequi consectetur unde aliquam corporis saepe
-                            animi non, tempora reiciendis molestias sed laudantium dolores.
-                            Assumenda aperiam fuga quo voluptate commodi ullam aliquam expedita
-                            voluptas delectus.
+                            We are BooBook. We are full of enthusiasm, fantasy and creativity. We
+                            are waiting for you to discover the most wonderful books to read and
+                            enter our captivating stories. BooBook is designed as a book finder for
+                            our readers. How does it work? You enter BooBook, search for your
+                            favorite books, and we are waiting for you at our location in
+                            Manchester.
                         </p>
                         <p className="fs-17">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, dicta,
-                            possimus inventore eveniet atque voluptatibus repellendus aspernatur
-                            illo aliquam dignissimos illum. Commodi, porro omnis dolore amet neque
-                            modi quas eum!
+                            Do not forget! Every Friday we gather for our book club right at our
+                            location. We drink tea, hot chocolate and biscuits and sit down to tell
+                            stories. Each person who participates can tell what they learned from
+                            the last reading or even from their own experience. We are waiting for
+                            you!
                         </p>
                     </div>
                 </div>

@@ -13,6 +13,7 @@ export default function App () {
       <AppProvider>
           <BrowserRouter>
               <Routes>
+                 <Route path="/boobook" element={<Home />}></Route>
                   <Route path="/" element={<Home />}>
                       <Route path="about" element={<About />} />
                       <Route path="book" element={<BookList />} />

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/boobook/static/css/main.b2d291fa.css",
+    "main.js": "/boobook/static/js/main.2589ce49.js",
+    "static/media/about-img.jpeg": "/boobook/static/media/about-img.4fbed3b7f758f88b9d4a.jpeg",
+    "static/media/logo.png": "/boobook/static/media/logo.206aa9747e2085b83ba3.png",
+    "static/media/books-img.webp": "/boobook/static/media/books-img.c3ef85365392fd67e067.webp",
+    "index.html": "/boobook/index.html",
+    "static/media/loader.svg": "/boobook/static/media/loader.95ff6148143f07c56407f396c2ef47e5.svg",
+    "main.b2d291fa.css.map": "/boobook/static/css/main.b2d291fa.css.map",
+    "main.2589ce49.js.map": "/boobook/static/js/main.2589ce49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d291fa.css",
+    "static/js/main.2589ce49.js"
+  ]
+}
